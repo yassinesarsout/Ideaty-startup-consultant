@@ -108,7 +108,3 @@ Slide 2: Problem
 ...
 ```
 
-## Author
-
-Manus AI
-
